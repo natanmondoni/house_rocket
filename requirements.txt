@@ -67,3 +67,5 @@ upgrade-pip==0.1.4
 urllib3==1.26.14
 validators==0.20.0
 zipp==3.15.0
+--extra-index-url https://dl.fbaipublicfiles.com/detectron2/wheels/cu113/torch1.10/index.html
+detectron2
