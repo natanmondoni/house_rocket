@@ -62,6 +62,7 @@ tornado==6.2
 typing_extensions==4.5.0
 tzdata==2022.7
 tzlocal==4.2
+upgrade-pip==0.1.4
 urllib3==1.26.14
 validators==0.20.0
 zipp==3.15.0
