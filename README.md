@@ -135,3 +135,4 @@ Com esse painel de métricas, vamos poder explorar ainda mais e assim ter uma to
 # 9.Próximo passos:
 - Aplicação de mais filtros.
 - Novas hipóteses.
+- Implementar o modelo de negócio.
