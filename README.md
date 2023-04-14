@@ -1,4 +1,4 @@
-# house_rocket
+# House_Rocket
 This repository contains files and script to build a company strategy dashboard.
 
 # 1. Descrição do problema de negócio:
