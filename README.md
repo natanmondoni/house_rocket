@@ -40,7 +40,7 @@ A House Rocket é uma empresa fictícia que trabalha com a compra e venda de im�
 |'long': |longitude.|
 |'sqft_living15': |tamanho interno do imóvel em ft dos 15 vizinhos mais próximos.|
 |'sqft_lot15': |tamanho do lote em ft dos 15 vizinhos mais próximos.|
-|Total: 19 atributos.
+
 
 # 4. Premissas de negócio:
 
